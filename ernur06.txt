@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+  <TITLE> МЕНІҢ САЙТЫМ </TITLE>
+</HEAD>
+<BODY>
+  <P><H1> Уйдан Ернұр </H1></P>
+  <P> МАМАНДЫҚ:ЦИФРЛЫҚ ТАРИХ ЖәНЕ АРХЕОЛОГИЯ </P>
+  <P> ШТРИХ КОДЫ:6В01609 </P>
+  <A HREF="https://asssanov1ch.wixsite.com/-asssanov1ch">ЭЛЕКТРОНДЫҚ ПОРТФОЛИО</A>
+  <IMG SRC="https://static.wixstatic.com/media/57ba7a_9bf295fef75d42a4ad6fa74ff29b31b9~mv2.png/v1/fill/w_464,h_714,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/photo_2024-01-13_21-29-49_edited.png" width="250"/>  
+</BODY>
+</HTML>
